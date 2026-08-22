@@ -1,7 +1,7 @@
 package in.kd.backend;
 
 import java.math.BigDecimal;
-
+//This is user details class
 public class BankAccount {
   private String customerName;
   private long accountNumber;
