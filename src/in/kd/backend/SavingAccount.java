@@ -1,7 +1,7 @@
 package in.kd.backend;
 
 import java.math.BigDecimal;
-
+//classes inherited from BankAccount
 public class SavingAccount extends BankAccount {
 	private BigDecimal interest;
 	private BigDecimal interestAmount;
